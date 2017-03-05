@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1980 MB
+    Driver:   10.18.10.3496
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  2.268 seconds
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Daten\Studium\ms4\Inf2\Flappy Unicorn\flapyyUnicorn_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.708053 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.296790 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.303634 ms (FindLiveObjects: 0.041910 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.222380 ms  DeleteObjects: 0.008980 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.485815 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.324590 ms (FindLiveObjects: 0.042337 ms CreateObjectMapping: 0.027369 ms MarkObjects: 0.242907 ms  DeleteObjects: 0.011119 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.313755 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.384461 ms (FindLiveObjects: 0.041910 ms CreateObjectMapping: 0.028652 ms MarkObjects: 0.304490 ms  DeleteObjects: 0.007270 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.173057 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 1.262009 ms (FindLiveObjects: 0.039771 ms CreateObjectMapping: 0.023093 ms MarkObjects: 0.214255 ms  DeleteObjects: 0.983178 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2dc -> priority: 1 
